@@ -1,6 +1,8 @@
 # breast_cancer_classification_using_machine_learning
 Classification of breast cancer as begin and fatal stage using histopathological images.
 
+Dataset from KAGGLE : https://www.kaggle.com/paultimothymooney/breast-histopathology-images
+
 Hereby I summarize all the results obtained:
 
 # 1)CNN - Convolutional Neural Network ( + PCA)
